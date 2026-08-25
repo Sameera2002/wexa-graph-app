@@ -8,8 +8,8 @@ Built on **CognoDB** (a managed graph database that speaks openCypher over
 Bolt) using the official `neo4j-driver` for Node.js, with a Next.js +
 TypeScript frontend.
 
-- **Live demo:** _add your hosted URL here_
-- **Screen recording:** _add your recording link here_
+- **Live demo:** [(https://wexa-graph-app-alpha.vercel.app/)
+- **Screen recording:** [link to your recording]()
 
 ---
 
