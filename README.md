@@ -264,8 +264,17 @@ _Live demo: [wexa-graph-app-alpha.vercel.app](https://wexa-graph-app-alpha.verce
 
 ## 7. Screenshots
 
-_Add screenshots of the dashboard, a service detail page (blast radius), an
-incident detail page (related incidents), and the graph explorer here._
+**Dashboard**
+![Dashboard](./screenshots/Dashboard.png)
+
+**Service detail — blast radius**
+![Service detail](./screenshots/Service-cache.png)
+
+**Incidents**
+![Incidents](./screenshots/Incidents.png)
+
+**Graph explorer**
+![Graph explorer](./screenshots/Explorer.png)
 
 ---
 
