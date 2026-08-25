@@ -9,7 +9,7 @@ Bolt) using the official `neo4j-driver` for Node.js, with a Next.js +
 TypeScript frontend.
 
 - **Live demo:** [wexa-graph-app-alpha.vercel.app](https://wexa-graph-app-alpha.vercel.app/)
-- **Screen recording:** _add your recording link here_
+- **Screen recording:** [Loom walkthrough](https://www.loom.com/share/5fa230e636a4474ca8ff469597b00a69)
 
 ---
 
